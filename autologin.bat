@@ -1,3 +1,3 @@
 @ECHO OFF
 cd c:\Autologin
-python "autologin.py"
+C:\Anaconda\python.exe "autologin.py"
